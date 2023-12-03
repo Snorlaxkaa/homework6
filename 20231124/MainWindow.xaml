@@ -10,7 +10,7 @@
         <Grid.Background>
             <ImageBrush ImageSource="/111.png"/>
         </Grid.Background>
-        <Button x:Name="openButton" Content="開啟新文件" HorizontalAlignment="Left" VerticalAlignment="Top" Height="75" Width="140" FontSize="18" Click="openButton_Click" Background="#FFBC2727"/>
+        <Button x:Name="openButton" Content="開啟新文件" HorizontalAlignment="Left" VerticalAlignment="Top" Height="131" Width="152" FontSize="18" Click="openButton_Click" Background="#FF8A71B1" Margin="644,23,0,0"/>
 
     </Grid>
 </Window>

@@ -136,7 +136,7 @@ namespace _20231124
 
         private void backgroundColorPicker_SelectedColorChanged(object sender, RoutedPropertyChangedEventArgs<Color?> e)
         {
-            Color? selectedColor = e.NewValue;
+           Color? selectedColor = e.NewValue;
             if (selectedColor != null)
             {
                 Color backgroundColor = (Color)selectedColor;
